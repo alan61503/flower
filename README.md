@@ -1,6 +1,6 @@
 # 💐 Flowers for Someone 🌸
 
-Welcome to **Flowers for Someone** – a beautiful website that celebrates the timeless art of gifting flowers. 🌼 Express your feelings with vibrant blooms and heartfelt messages tailored for any occasion!
+Welcome to **Flowers for Someone** – a beautiful website that celebrates the timeless art of gifting flowers. 🌼 Express your feelings with vibrant blooms and heartfelt messages tailored for any occasion! meh
 
 ## 🌟 Table of Contents
 - [✨ Introduction](#-introduction)
